@@ -77,11 +77,6 @@ minimax(depth, isMaximizing)
 
 The AI simulates every possible future move and always picks the optimal one — it **cannot be beaten**, only tied.
 
-## Authors
 
-| Name | Contact |
-|------|---------|
-| Nino Marinkovic | Nino.Marinkovic@hak-reutte.ac.at |
-| Elias Haberl | Elias.Haberl@hak-reutte.ac.at |
 
-**HTL Reutte** · Gymnasiumstrasse 8, 6600 Reutte · © 2026
+
