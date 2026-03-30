@@ -27,6 +27,8 @@ minimax(depth, isMaximizing)
   → if human wins: return depth - 10
   → if draw: return 0
   → otherwise: try all moves, pick best score
+
+  
 Project Structure
 ├── index.html          # Main game page
 ├── impressum.html      # Imprint / legal info
@@ -38,6 +40,8 @@ Project Structure
 ├── plop.mp3            # Move sound
 ├── victory.mp3         # Win sound
 └── reset.mp3           # Reset sound
+
+
 Getting Started
 No build step required — just open index.html in any modern browser.
 bashgit clone https://github.com/your-username/tic-tac-toe.git
