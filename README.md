@@ -1,5 +1,5 @@
 A browser-based Tic Tac Toe game with an unbeatable AI powered by the Minimax algorithm.
-Built with  HTML, CSS, and JavaScript as a school project at HTL Reutte.
+Built with  HTML, CSS, and JavaScript as a school project
 
 
 Features
